@@ -1,4 +1,7 @@
 ### Hi there 👋
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HugoRCD&count_private=true&theme=material-palenight)
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HugoRCD&layout=compact)
 
 <!--
 **HugoRCD/HugoRCD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
