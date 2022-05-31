@@ -9,8 +9,6 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=HugoRCD)
 
 <br />
-
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 - 💼 any freelance work? do reach, [email](mailto:hrichard206@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
@@ -26,16 +24,6 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
-📊 **this week i spent my time on:**
-<!--START_SECTION:waka-->
-
-```text
-JavaScript   24 hrs 16 mins   ██████████████████████▓░░   73.24 %
-C++          13 hrs 12 mins   ██████████████░░░░░░░░░░░   48.46 %
-```
-
-<!--END_SECTION:waka-->
 
 📈 my github stats
 
