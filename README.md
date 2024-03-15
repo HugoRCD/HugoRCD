@@ -1,32 +1,57 @@
-<h1 align="center">Hi 👋, I'm Hugo</h1>
-<h3 align="center">A passionate frontend developer from Nice / France 🇫🇷</h3>
+<h1 align="center">hey there 👋</h1>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=hugorcd&label=Profile%20views&color=0e75b6&style=flat" alt="hugorcd" /> </p>
+###
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://linkedin.com/in/hugo-richard-0801" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hugo-richard-0801" height="30" width="40" /></a>
-<a href="https://instagram.com/hugo.rcd_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hugo.rcd_" height="30" width="40" /></a>
-</p>
-
-<br>
-
-<h3 align="center">Main Stack</h3>
-<p align="center">
-  <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/>
+<div align="center">
+  <a href="https://twitter.com/HugoRCD__" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   </a>
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
+  <a href="https://www.instagram.com/hugo.rcd_/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
-  <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/>
+  <a href="https://www.linkedin.com/in/hugo-richard-0801" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>
-</p>
+</div>
 
-<br>
+###
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hugorcd&show_icons=true&locale=en&layout=compact" alt="hugorcd" /></p>
+<h3 align="left">👩‍💻  About Me</h3>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hugorcd&show_icons=true&locale=en" alt="hugorcd" /></p>
+###
+
+<p align="left">French developer from Nice<br><br>- 🧑‍💻 Deeply engaged in the Nuxt ecosystem 💚<br>- 🔭 Happily freelancing as a software developer and art director<br>- ⚡ In my spare time, I enjoy coding a lot, and I also engage in various sports activities like going to the gym and climbing</p>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.simpleicons.org/nuxtdotjs/00DC82" height="40" alt="nuxtjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+</div>
+
+###
+
+<h3 align="left">🔥 My Stats :</h3>
+
+###
+
+<div align="left">
+  <img src="https://streak-stats.demolab.com?user=HugoRCD&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://profile-counter.glitch.me/HugoRCD/count.svg?"  />
+</div>
+
+###
