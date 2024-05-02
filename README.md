@@ -50,8 +50,16 @@
 
 ###
 
-<div align="left">
-  <img src="https://profile-counter.glitch.me/HugoRCD/count.svg?"  />
-</div>
+<details>
+  <summary>More Stats</summary>
+  <div>
+    <a href="https://github.com/hugorcd/">
+      <img align="center" height="188px" src="https://github-readme-stats.vercel.app/api?username=hugorcd&count_private=true&show_icons=true&&theme=dark" />
+    </a>
+  </div>
+  <div align="left">
+    <img src="https://profile-counter.glitch.me/HugoRCD/count.svg?"  />
+  </div>
+</details>
 
 ###
