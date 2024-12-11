@@ -8,7 +8,7 @@ I create digital experiences that combine technical excellence with thoughtful d
   <a href="https://twitter.com/HugoRCD__">
     <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/hugo-richard-0801">
+  <a href="https://www.linkedin.com/in/hugorcd">
     <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://hrcd.fr">
