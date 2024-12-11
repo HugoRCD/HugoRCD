@@ -50,7 +50,3 @@ I create digital experiences that combine technical excellence with thoughtful d
   <br/>
   <img src="https://streak-stats.demolab.com?user=HugoRCD&theme=dark&hide_border=true&background=000000" />
 </div>
-
-<div align="center">
-  <i>Building the future of developer tools, one commit at a time.</i>
-</div>
