@@ -1,65 +1,56 @@
-<h1 align="center">hey there 👋</h1>
+<img src="https://pbs.twimg.com/profile_banners/964974856856133632/1733852827/1500x500" alt="Hugo Richard Banner" width="100%" height="200" style="object-fit: cover;">
 
-###
+## Frontend Architect & Digital Craftsman
+
+I create digital experiences that combine technical excellence with thoughtful design. Building open-source tools that developers love to use. Currently working on [Shelve](https://github.com/HugoRCD/shelve), a modern platform revolutionizing environment management.
 
 <div align="center">
-  <a href="https://twitter.com/HugoRCD__" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <a href="https://twitter.com/HugoRCD__">
+    <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/hugo.rcd_/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  <a href="https://www.linkedin.com/in/hugo-richard-0801">
+    <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/hugo-richard-0801" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <a href="https://hrcd.fr">
+    <img src="https://img.shields.io/badge/Website-black?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
 </div>
 
-###
+### Current Focus
 
-<h3 align="left">👩‍💻  About Me</h3>
+- 🚀 Building [Shelve](https://shelve.cloud) - Open-source environment management platform
+- 💚 Contributing to the Nuxt ecosystem and open-source community
+- ✨ Creating developer tools that prioritize DX
+- 🛠️ Exploring new ways to improve developer workflows
 
-###
+### Tech Stack
 
-<p align="left">French developer from Nice<br><br>- 🧑‍💻 Deeply engaged in the Nuxt ecosystem 💚<br>- 🔭 Happily freelancing as a software developer and art director<br>- ⚡ In my spare time, I enjoy coding a lot, and I also engage in various sports activities like going to the gym and climbing</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.simpleicons.org/nuxtdotjs/00DC82" height="40" alt="nuxtjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+<div align="center">
+  <table width="500px">
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Nuxt-black?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82" />
+        <img src="https://img.shields.io/badge/Vue-black?style=for-the-badge&logo=vuedotjs&logoColor=#4FC08D" />
+        <img src="https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript&logoColor=3178C6" />
+        <img src="https://img.shields.io/badge/Tailwind-black?style=for-the-badge&logo=tailwindcss&logoColor=#06B6D4" />
+        <img src="https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql&logoColor=#4169E1" />
+        <img src="https://img.shields.io/badge/Drizzle-black?style=for-the-badge&logo=drizzle&logoColor=white" />
+        <img src="https://img.shields.io/badge/Prisma-black?style=for-the-badge&logo=prisma&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker&logoColor=#2496ED" />
+        <img src="https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma&logoColor=white" />
+      </td>
+    </tr>
+  </table>
 </div>
 
-###
+### GitHub Stats
 
-<h3 align="left">🔥 My Stats :</h3>
-
-###
-
-<div align="left">
-  <img src="https://streak-stats.demolab.com?user=HugoRCD&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hugorcd&show_icons=true&theme=dark&hide_border=true&hide_title=true&count_private=true&bg_color=000000" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=HugoRCD&theme=dark&hide_border=true&background=000000" />
 </div>
 
-###
-
-<details>
-  <summary>More Stats</summary>
-  <div>
-    <a href="https://github.com/hugorcd/">
-      <img align="center" height="188px" src="https://github-readme-stats.vercel.app/api?username=hugorcd&count_private=true&show_icons=true&&theme=dark" />
-    </a>
-  </div>
-  <div align="left">
-    <img src="https://profile-counter.glitch.me/HugoRCD/count.svg?"  />
-  </div>
-</details>
-
-###
+<div align="center">
+  <i>Building the future of developer tools, one commit at a time.</i>
+</div>
