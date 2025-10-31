@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://pbs.twimg.com/profile_banners/964974856856133632/1733852827/1500x500" alt="Hugo Richard Banner" width="100%" height="200" style="object-fit: cover;">
   
-  ## Frontend Architect & Open Source Developer
+  ## Software Engineer & Open Source Developer
   
   *"Simplicity is the ultimate sophistication"*
 </div>
@@ -22,15 +22,12 @@
 
 Building the tools I wish existed for developers.
 
-Currently:
-- 💚 Part of the [NuxtLabs](https://nuxtlabs.com) team
+- 💚 Part of the [Nuxt](https://nuxt.com) team
+- ▲ Working at Vercel
 - 🚀 Creator of [Shelve](https://shelve.cloud) - The modern env management platform
-- ⚡️ Active contributor to the Nuxt ecosystem
-- 🎨 Obsessed with creating delightful developer experiences
 
 ### GitHub Stats
 
 <div align="left">
-  <img src="https://streak-stats.demolab.com?user=HugoRCD&theme=dark&hide_border=true&background=000000" />
   <img src="https://github-readme-stats.vercel.app/api?username=hugorcd&show_icons=true&theme=dark&hide_border=true&hide_title=true&count_private=true&bg_color=000000" />
 </div>
