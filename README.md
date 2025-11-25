@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <a href="https://twitter.com/HugoRCD__">
+  <a href="https://twitter.com/HugoRCD">
     <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/hugorcd">
