@@ -25,9 +25,3 @@ Building the tools I wish existed for developers.
 - 💚 Part of the [Nuxt](https://nuxt.com) team
 - ▲ Working at [Vercel](https://vercel.com)
 - 🚀 Creator of [Shelve](https://shelve.cloud) - The modern env management platform
-
-### GitHub Stats
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=hugorcd&show_icons=true&theme=dark&hide_border=true&hide_title=true&count_private=true&bg_color=000000" />
-</div>
