@@ -25,3 +25,5 @@ Building the tools I wish existed for developers.
 - 💚 Part of the [Nuxt](https://nuxt.com) team
 - ▲ Working at [Vercel](https://vercel.com)
 - 🚀 Creator of [Shelve](https://shelve.cloud) - The modern env management platform
+
+<img src="https://u8views.com/api/v1/github/profiles/71938701/views/day-week-month-total-count.svg" width="0" height="0" />
